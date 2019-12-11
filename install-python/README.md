@@ -11,13 +11,13 @@ There are two main versions of python. Both are probably already installed in yo
 
 The default version of python is, in most cases, python2.
 
-# Python for Windows and Mac OS:
+## Python for Windows and Mac OS:
 
 - https://wiki.python.org/moin/BeginnersGuide/Download
 - https://www.python.org/downloads/
 
 
-# Use Python Interpreter (terminal)
+## Use Python Interpreter (terminal)
 
 You can access the Python Interpreter via terminal by typing:
 ```shell
