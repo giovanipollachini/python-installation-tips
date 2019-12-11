@@ -8,6 +8,7 @@ Python comes preinstalled in most linux distros.
 There are two main versions of python. Both are probably already installed in your computer if you use Linux.
 - python2
 - python3
+
 The default version of python is, in most cases, python2.
 
 # Python for Windows and Mac OS:
