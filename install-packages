@@ -1,0 +1,31 @@
+# Install Packages for Python
+
+
+## PIP
+
+pip is the standard package manager for Python. It allows you to install and manage additional packages that are not part of the Python standard library.
+
+https://realpython.com/what-is-pip/
+
+### Install PIP
+
+```shell
+# Pip for Python 2
+sudo apt-get install python2-pip
+# Pip for Python 3
+sudo apt-get install python3-pip 
+```
+
+### Update pip
+
+```shell
+python -m pip install --upgrade pip
+```
+
+Notice that you use python -m to update pip. The -m switch tells Python to run a module as an executable. This is necessary because in order for you to update pip, the old version has to be uninstalled before installing the new version, and removing it while running the tool can cause errors.
+https://realpython.com/what-is-pip/
+
+The command also works in python3:
+```shell
+python3 -m pip install --upgrade pip
+```
