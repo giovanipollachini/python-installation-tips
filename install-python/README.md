@@ -19,13 +19,13 @@ The default version of python is, in most cases, python2.
 # Use Python Interpreter (terminal)
 
 You can access the Python Interpreter via terminal by typing:
-´´´shell
+```shell
 python
-´´´
+```
 This will open the interpreter for the default version of python, which is, in most cases, python2. 
 
 If you want to ensure a version for python, you can type:
-´´´shell
+```shell
 # Open python2 interpreter
 python2
 # Open python2.7 interpreter
@@ -34,4 +34,4 @@ python2.7
 python3
 # Open python3.6 interpreter
 python3.6
-´´´
+```
