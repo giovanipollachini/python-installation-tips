@@ -16,6 +16,15 @@ The default version of python is, in some cases, python2.
 - https://wiki.python.org/moin/BeginnersGuide/Download
 - https://www.python.org/downloads/
 
+## Install a specific Python version in Linux
+
+Download the Python source code for the specific version and operating system you need at:
+
+[https://www.python.org/downloads/](https://www.python.org/downloads/)
+
+Then, follow the instructions in `README.rst`, in section **Build Instructions**.
+
+
 
 ## Use Python Interpreter (terminal)
 
