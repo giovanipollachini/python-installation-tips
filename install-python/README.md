@@ -24,8 +24,11 @@ Download the Python source code for the specific version and operating system yo
 
 Then, follow the instructions in `README.rst`, in section **Build Instructions**. 
 
-Reference: [https://docs.python.org/3/using/unix.html#building-python](https://docs.python.org/3/using/unix.html#building-python)
+References: 
 
+[https://docs.python.org/3/using/unix.html#building-python](https://docs.python.org/3/using/unix.html#building-python)
+
+[https://www.python.org/ftp/python](https://www.python.org/ftp/python)
 
 ## Use Python Interpreter (terminal)
 
