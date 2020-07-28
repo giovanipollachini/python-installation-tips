@@ -26,9 +26,8 @@ Then, follow the instructions in `README.rst`, in section **Build Instructions**
 
 References: 
 
-[https://docs.python.org/3/using/unix.html#building-python](https://docs.python.org/3/using/unix.html#building-python)
-
-[https://www.python.org/ftp/python](https://www.python.org/ftp/python)
+- [https://docs.python.org/3/using/unix.html#building-python](https://docs.python.org/3/using/unix.html#building-python)
+- [https://www.python.org/ftp/python](https://www.python.org/ftp/python)
 
 ## Use Python Interpreter (terminal)
 
